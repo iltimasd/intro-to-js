@@ -108,10 +108,12 @@ function(a, b) {
     age:"middle",
     dislikes:"bbq",
 }
+
 ---
 # Functions
 parameters
 calling a funcation
+
 ---
 # Scoping
 
