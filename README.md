@@ -94,8 +94,27 @@ Let's get dirty and in the details!
 
 ---
 # Variables
+holds values, simple to complex.
+2
+"bob"
+4.5
+
+function(a, b) {
+  return a + b;
+}
+
+{
+    name:"becky",
+    age:"middle",
+    dislikes:"bbq",
+}
 ---
 # Functions
+parameters
+calling a funcation
+---
+# Scoping
+
 ---
 # sources
 https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript
