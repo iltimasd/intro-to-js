@@ -90,6 +90,16 @@ what you can do with the browser APIs?
 - and more!!!
 
 ---
-Let's get dirty!
+Let's get dirty and in the details!
 
-
+---
+# Variables
+---
+# Functions
+---
+# sources
+https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript
+https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/A_first_splash
+https://www.w3schools.com/js/js_htmldom.asp
+http://jqfundamentals.com/chapter/javascript-basics
+https://p5js.org/learn/debugging.html
