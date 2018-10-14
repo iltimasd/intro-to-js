@@ -45,10 +45,22 @@ a series of instructions
 Store, manipulate, output data
 
 ---
+# What do most programming langauges do?
 
-2+2
-string concatenation
+- store values
+- math operations
+- string concatenation
 
+## Try in the console
+```
+> 2+2
+> "hello"+"world"
+> x=4
+> x
+> x+=1
+> x++
+> x
+```
 ---
 #### know/note
 
@@ -62,7 +74,10 @@ the most common API? the Browser APIs!
 
 This is what is usually called "vanilla JS"
 
-The other type of API are 3rd party APIs.
+The other type of API are 3rd party APIs. ie. Twitter allows you to retrieve tweets, Google maps allows you to embed maps.
+
+???
+Vanilla is still wildly powerful, https://www.dairyreporter.com/Article/2017/07/07/Vanilla-ranks-as-the-top-selling-ice-cream-flavor-in-US
 
 ---
 
@@ -73,4 +88,8 @@ what you can do with the browser APIs?
 - Draw with Canvas!
 - 3D fun with WebGL!
 - and more!!!
+
+---
+Let's get dirty!
+
 
