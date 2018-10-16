@@ -1,4 +1,3 @@
-require('jquery');
 //single line comment
 
 /*
