@@ -93,34 +93,22 @@ what you can do with the browser APIs?
 Let's get dirty and in the details!
 
 ---
-# Variables
-holds values, simple to complex.
-2
-"bob"
-4.5
-
-function(a, b) {
-  return a + b;
-}
-
-{
-    name:"becky",
-    age:"middle",
-    dislikes:"bbq",
-}
-
----
-# Functions
-parameters
-calling a funcation
-
----
-# Scoping
-
----
 # sources
+```
 https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript
 https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/A_first_splash
 https://www.w3schools.com/js/js_htmldom.asp
 http://jqfundamentals.com/chapter/javascript-basics
 https://p5js.org/learn/debugging.html
+
+https://www.digitalocean.com/community/tutorials/an-introduction-to-jquery
+https://www.taniarascia.com/javascript-day-one/
+https://www.taniarascia.com/javascript-day-two/
+
+https://www.digitalocean.com/community/tutorials/introduction-to-the-dom
+http://ci.nikasimovich.com/lectures/lab/javascript-introduction
+
+https://www.w3schools.com/js/js_functions.asp
+
+https://www.lewagon.com/blog/from-jquery-to-dom-and-es6
+```
