@@ -101,6 +101,8 @@ https://www.w3schools.com/js/js_htmldom.asp
 http://jqfundamentals.com/chapter/javascript-basics
 https://p5js.org/learn/debugging.html
 
+https://www.w3schools.com/jquery/jquery_examples.asp
+
 https://www.digitalocean.com/community/tutorials/an-introduction-to-jquery
 https://www.taniarascia.com/javascript-day-one/
 https://www.taniarascia.com/javascript-day-two/

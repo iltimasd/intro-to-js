@@ -125,7 +125,7 @@ document.write(myFunction);
 
         // https://api.jquery.com/category/selectors/
         // https://api.jquery.com/category/events/
-
+        // http://api.jquery.com/category/effects/
 //how to link to jQuery
     //before closing body tag add this
     //<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
