@@ -21,6 +21,8 @@ there are multiple data types */
 // = assign a value
 // semi colon ends a statement
 
+//some code online might use var! thats ol' school use let instead!
+
 let thisIsANumber = 5;
 let disAString = 'use single or double quotes, but pick one'; //i like single quotes so i can use double quotes
 let trueOrFalseBOO = true; //this is a boolean
